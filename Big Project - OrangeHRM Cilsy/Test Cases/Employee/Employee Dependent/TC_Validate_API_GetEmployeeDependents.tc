@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Validate_API_GetEmployeeDependents</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>775d42a5-5f03-49ec-883a-d673af63507c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Validate_API_UpdateSupervisorDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ccc6e7a6-4ec3-4cae-be6d-bb997afe49ba</testCaseGuid>
+</TestCaseEntity>

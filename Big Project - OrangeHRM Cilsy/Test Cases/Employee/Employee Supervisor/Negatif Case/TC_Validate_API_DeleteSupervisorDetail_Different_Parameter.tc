@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Validate_API_DeleteSupervisorDetail_Different_Parameter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5797bf81-34c7-4a7b-bc3b-2e43957bb370</testCaseGuid>
+</TestCaseEntity>

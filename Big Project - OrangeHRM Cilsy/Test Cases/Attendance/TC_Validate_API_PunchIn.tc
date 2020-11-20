@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Validate_API_PunchIn</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>efa887bb-c068-49a7-8747-53cc67803f17</testCaseGuid>
+</TestCaseEntity>

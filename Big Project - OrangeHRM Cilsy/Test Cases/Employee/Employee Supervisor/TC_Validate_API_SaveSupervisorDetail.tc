@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Validate_API_SaveSupervisorDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>50ca44a6-19dd-4196-b627-595a998391c5</testCaseGuid>
+</TestCaseEntity>

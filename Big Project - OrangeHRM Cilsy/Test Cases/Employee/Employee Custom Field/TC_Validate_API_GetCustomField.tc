@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Validate_API_GetCustomField</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8129c7c8-e7e9-4be4-b51c-e4d479a203f6</testCaseGuid>
+</TestCaseEntity>

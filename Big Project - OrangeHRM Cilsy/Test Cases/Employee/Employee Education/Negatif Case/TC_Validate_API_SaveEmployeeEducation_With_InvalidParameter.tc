@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Validate_API_SaveEmployeeEducation_With_InvalidParameter</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e04d9f88-7190-4207-ada6-19764e39a278</testCaseGuid>
+</TestCaseEntity>

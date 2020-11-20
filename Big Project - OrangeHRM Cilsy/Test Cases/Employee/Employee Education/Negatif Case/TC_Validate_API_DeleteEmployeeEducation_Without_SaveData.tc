@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Validate_API_DeleteEmployeeEducation_Without_SaveData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c8acd8c2-f615-4965-9c79-39aab6170b5a</testCaseGuid>
+</TestCaseEntity>

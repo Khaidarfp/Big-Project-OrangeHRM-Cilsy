@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Validate_API_GetUser</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e9fa7760-5e1c-483e-939d-94b34a89a692</testCaseGuid>
+</TestCaseEntity>

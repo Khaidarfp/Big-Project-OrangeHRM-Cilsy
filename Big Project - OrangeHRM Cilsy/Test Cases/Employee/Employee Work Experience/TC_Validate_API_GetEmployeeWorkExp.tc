@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Validate_API_GetEmployeeWorkExp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>257c6011-e7c1-4a60-93da-7e227290bb00</testCaseGuid>
+</TestCaseEntity>

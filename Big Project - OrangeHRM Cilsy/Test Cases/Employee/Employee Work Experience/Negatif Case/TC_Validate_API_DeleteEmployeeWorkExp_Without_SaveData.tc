@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Validate_API_DeleteEmployeeWorkExp_Without_SaveData</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d76d3a01-8306-4739-8558-d3fbf6e8539b</testCaseGuid>
+</TestCaseEntity>

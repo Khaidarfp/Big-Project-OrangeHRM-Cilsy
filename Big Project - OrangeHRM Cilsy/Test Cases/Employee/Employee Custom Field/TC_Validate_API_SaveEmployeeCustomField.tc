@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Validate_API_SaveEmployeeCustomField</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>88ade494-cb5a-4bb9-9dc4-f47b067845b8</testCaseGuid>
+</TestCaseEntity>

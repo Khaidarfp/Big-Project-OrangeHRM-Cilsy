@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC_Validate_API_GetEmployeeDetail</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1b058e3-eeb3-4dc1-afbb-d8f236077088</testCaseGuid>
+</TestCaseEntity>
